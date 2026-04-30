@@ -29,7 +29,36 @@ Now that the server connection is done, you can move to setting up the two keys 
 https://github.com/user-attachments/assets/52bdb530-c722-45d9-a6d3-38fb322c0d71
 
 ## Home System
-Our current staging system is **3-FKCZ** with our home station, the **3-FKCZ - W O M P S T A R**. This is the starting point for the majority of our PVP fleets and is also our local market hub. Once you're docked in the WOMPSTAR, make sure to right click its name in the top left and set it as your Home Station!
+Our current staging system is **3-FKCZ** with our home station, the **3-FKCZ - W O M P S T A R**. This is the starting point for the majority of our PVP fleets and is also our local market hub. 
 
+### I just landed in the **W O M P S T A R**, what can I do?
+First things first, once you're docked in the **W O M P S T A R**, make sure to right click its name in the top left and set it as your Home Station! From there, your next steps depend on whether you want to make some money or do some shooting:
 
+#### PvE Activities
+1. <img width="640" height="246" alt="abyssals" src="https://github.com/user-attachments/assets/4258d4e9-5f7a-4a66-8d74-97dc347ae9e3" />
+2. <img width="245" height="245" alt="exploration" src="https://github.com/user-attachments/assets/125e8fd9-9c23-41b6-abb0-2c56c5ca4517" />
+3. <img width="374" height="374" alt="mining" src="https://github.com/user-attachments/assets/e0c6da43-1a3d-4d08-b6aa-d74e87787c21" />
+4. <img width="201" height="238" alt="ratting" src="https://github.com/user-attachments/assets/93858274-73bf-4f5d-93d6-ba094e9d6b3e" />
+
+#### PvP Activities
+1. Join Standing Fleet.
+   You can find it inside your fleet finder as "WOMP Standing". Standing fleet should be up most of the time. Standing fleet losses are not SRP'd by the alliance. 
+2. Join a content fleet.
+   Content fleets can be pinged by anyone in the alliance, they go into the **#content-pings** channel on Discord. They are for-fun fleets with no strategic objective. These fleets are not SRP'd by the alliance.
+3. Join a Stratop.
+   Stratops are fleets important to the alliance, you should join them if you are available. They will be pinged in the **#strat-pings-querious** channel on Discord. Losses during Stratops **are** SRP'd by the alliance.
+
+#### Acquiring Ships and Items
+##### Free Ships!
+If you can't afford a PvP ship (either doctrine or otherwise), you can ask for a handout frigate from TWATs in the **#newbros** channel on Discord. You can get either a **Tackle Merlin**, a **Tackle Slasher**, or an **EWAR Vigil**. The ships are free to replace, should you lose one, just ask for another one.
+
+##### Alliance Contracts
+You can find most of our doctrine ships we use in Stratops on Alliance Contract. To find those contracts, go to your *Neocom* -> *Finance* -> *Contracts*. Switch to the *Contract Search* tab. In the *Item Type* field, write whatever ship your looking for or leave it blank to see all contracts. Set *Location* to *Current Station*. Then, further below, set *Availability* to *My Alliance*. Finally, click *Search* to get a list of the available Alliance Contracts.
+
+##### Market
+The **W O M P S T A R** is our main marketplace, you can find plenty of items listed there. 
+
+##### Shipping
+Should the market be missing an item you are looking for, you can have it shipped in by one of our shipping services. To do so, buy what you need in **Jita**, then go to the [Freight Calculator](https://auth.wompa.space/freight/calculator) on Auth. Set the *Route* to *Jita <-> 3-FKCZ*, the *Volume* to however large your item(s) is/are, and the *Collateral* to however much you paid for your items. Then click the button labeled "Click To Calculate Reward!". Switch back to the game, select all the items you want delivered, then right-click them and select *Create Contract*. Switch the *Contract Type* to *Courier*, fill the rest out with the information you find on the Freight Calculator's site under *Your contract*. 
+Courier contracts are fulfilled by real humans, so the delivery time will vary based on their availability. 
 
