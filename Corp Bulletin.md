@@ -88,6 +88,6 @@ There's a good chance you have already interacted with our [Website](https://aut
 9. **Ship Replacement**  
    The Ship Replacement Program (**SRP**) offers members of the alliance compensation for ships lost during Stratops. There usually is only one entry here, for the current month. To request SRP, click on the green icon with the outstretched hand under "Actions". Then, go to zkillboard.com and use the search bar in the top right to search for your character who lost the ship. Once you found the loss, copy its URL and enter it on the "Request SRP" page you previously opened. Next, provide additional information for that loss in the text box below the URL, like "Who was the FC, what doctrine was called, have changes to the fit been requested and so on." Finally, click the "Submit SRP request" button. Once your SRP request has been processed, the ISK will show up in the ingame wallet of the character who lost the ship. The SRP process is handled by real humans, so the response time will vary based on their availability.  
    You can also check the status of your SRP requests by clicking "My SRP Requests" in the top left of the **Ship Replacement** page.
-10. **WOMT Freight**
+10. **WOMT Freight**  
      Here you can commission a freight service to deliver items purchased by you from one location to another. For a more detailed description on how to set up a Courier contract for a freight service, see the **Shipping** section above, under **Acquiring Ships and Items**, in the **Home System** part of this document.
    
