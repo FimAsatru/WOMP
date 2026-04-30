@@ -1,9 +1,9 @@
 # Welcome, new citizen, to the WOMPire!
-In this document, we will present all the information you need to find your way around your new home. Should you have questions about any of the points presented here, feel free to ask them in the #newbros channel on Discord.
+In this document, we will present all the information you need to find your way around your new home. Should you have questions about any of the points presented here, feel free to ask them in the **#newbros** channel on Discord.
 
 ## Mumble
 To communicate during fleets or have a chat while hanging out in space, we use Mumble. You can download the software here: https://www.mumble.info/downloads/
-To set up Mumble for your account, go to  https://auth.wompa.space/services/ then follow these steps:
+To set up Mumble for your account, go to [Auth Services](https://auth.wompa.space/services/) then follow these steps:
 
 1. Under "Mumble" click the yellow box with the white checkmark:
    <img width="353" height="354" alt="Mumble01" src="https://github.com/user-attachments/assets/7cfa3fe4-42ed-4c92-a14a-10a6b0e5efb2" />
