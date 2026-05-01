@@ -15,7 +15,7 @@ First things first, once you're docked in the **W O M P S T A R**, make sure to 
 
 #### PvP Activities
 - Join Standing Fleet.  
-  You can find the standing fleet in your Fleet Finder as "WOMP Standing". Standing fleet should be up most of the time and you can bring any ship you are willing to lose. Makre sure to also join Standing Comms on Mumble while in fleet! If you're doing a PvE activity in our space, you should strongly consider joining standing fleet as well as Standing Comms on Mumble; both to get help should you get engaged by hostiles as well as hang out with your fellow womplings. Standing fleet losses are not SRP'd by the alliance. 
+  You can find the standing fleet in your Fleet Finder as "WOMP Standing". Standing fleet should be up most of the time and you can bring any ship you are willing to lose. Make sure to also join Standing Comms on Mumble while in fleet! If you're doing a PvE activity in our space, you should strongly consider joining standing fleet as well as Standing Comms on Mumble; both to get help should you get engaged by hostiles as well as hang out with your fellow womplings. Standing fleet losses are not SRP'd by the alliance. 
 - Join a content fleet.  
   Content fleets can be pinged by anyone in the alliance, they go into the **#content-pings** channel on Discord. They are for-fun fleets with no strategic objective and often don't use alliance doctrine-fit ships. Content fleets are not SRP'd by the alliance.
 - Join a Stratop.  
