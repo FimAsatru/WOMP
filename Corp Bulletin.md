@@ -19,7 +19,7 @@ First things first, once you're docked in the **W O M P S T A R**, make sure to 
 - Join a content fleet.  
   Content fleets can be pinged by anyone in the alliance, they go into the **#content-pings** channel on Discord. They are for-fun fleets with no strategic objective and often don't use alliance doctrine-fit ships. Content fleets are not SRP'd by the alliance.
 - Join a Stratop.  
-  There are two types of strategically important fleets to the alliance, Stratop and CTA (**C**all **T**o **A**rms). When a Stratop gets pinged, you should strongly consider joining it. When a CTA gets pinged, make every reasonable effort to be there; stop krabbing, stop roaming, stop watching your favourtie show on Netflix, the WOMPire is in danger and you're Called To Arms! Stratops and CTAs will be pinged in the **#strat-pings-querious** channel on Discord and will almost always use alliance doctrine fits. Losses during Stratops **are** SRP'd by the alliance.
+  There are two types of strategically important fleets to the alliance, Stratop and CTA (**C**all **T**o **A**rms). When a Stratop gets pinged, you should strongly consider joining it. When a CTA gets pinged, make every reasonable effort to be there; stop krabbing, stop roaming, stop watching your favourite show on Netflix, the WOMPire is in danger and you're Called To Arms! Stratops and CTAs will be pinged in the **#strat-pings-querious** channel on Discord and will almost always use alliance doctrine fits. Losses during Stratops **are** SRP'd by the alliance.
 
 #### Acquiring Ships and Items
 ##### Free Ships!
