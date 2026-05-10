@@ -19,6 +19,10 @@ For Ratting and Mining, you can check this map of the WOMPire to see which syste
 <img width="625" height="540" alt="WOMP Space Mining and Ratting Llama Card" src="https://github.com/user-attachments/assets/0f46d0cf-59ac-4fea-a87c-473111bbc033" />
 (Systems with green borders are our systems, systems with grey borders are neutral/owned by other alliances)
 
+For Industry, refer to the following table to see where to build what:
+<img width="625" height="229" alt="image" src="https://github.com/user-attachments/assets/4a9d8fcb-6172-4519-92f7-b1bf3cfa10db" />
+
+
 #### PvP Activities
 - Join Standing Fleet.  
   You can find the standing fleet in your Fleet Finder as "WOMP Standing". Standing fleet should be up most of the time and you can bring any ship you are willing to lose. Make sure to also join Standing Comms on Mumble while in fleet! If you're doing a PvE activity in our space, you should strongly consider joining standing fleet as well as Standing Comms on Mumble; both to get help should you get engaged by hostiles as well as hang out with your fellow womplings. Standing fleet losses are not SRP'd by the alliance. 
