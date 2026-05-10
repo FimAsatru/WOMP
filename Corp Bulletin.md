@@ -8,10 +8,16 @@ Our current staging system is **3-FKCZ** with our home station, the **3-FKCZ - W
 First things first, once you're docked in the **W O M P S T A R**, make sure to right click its name in the top left and set it as your Home Station! From there, your next steps depend on whether you want to make some money or do some shooting:
 
 #### PvE Activities
-- <img width="640" height="246" alt="abyssals" src="https://github.com/user-attachments/assets/4258d4e9-5f7a-4a66-8d74-97dc347ae9e3" />
-- <img width="245" height="245" alt="exploration" src="https://github.com/user-attachments/assets/125e8fd9-9c23-41b6-abb0-2c56c5ca4517" />
-- <img width="374" height="374" alt="mining" src="https://github.com/user-attachments/assets/e0c6da43-1a3d-4d08-b6aa-d74e87787c21" />
-- <img width="201" height="238" alt="ratting" src="https://github.com/user-attachments/assets/93858274-73bf-4f5d-93d6-ba094e9d6b3e" />
+- Abyssals
+- Exploration
+- Industry
+- Mining
+- Ratting
+- Salvaging
+
+For Ratting and Mining, you can check this map of the WOMPire to see which system has which upgrade: 
+<img width="625" height="540" alt="WOMP Space Mining and Ratting Llama Card" src="https://github.com/user-attachments/assets/0f46d0cf-59ac-4fea-a87c-473111bbc033" />
+(Systems with green borders are our systems, systems with grey borders are neutral/owned by other alliances)
 
 #### PvP Activities
 - Join Standing Fleet.  
