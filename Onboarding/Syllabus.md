@@ -1,16 +1,18 @@
+# Explanation
+~~> Command to give to fleet members <~~
+==> Teacher interaction with fleet <==
+---Teacher observation of fleet ---
+
+
 # Page 1
 
-==> UNDOCK - Stop Ship <==
+~~> UNDOCK - Stop Ship <~~
 
 Get involved
-Standing Fleet, Watch Pings, Watch Op Board
+Standing Fleet
   - Standing = Kitchen Sink
-  - NBI Tackle/EWAR in organized Fleets
-    - When no preference by FC: NBI Vigil
-
-#newbean-pings
-Caretaker fleets for Newbeans.
-- Caretakers are more experienced and are there to help
+Watch for Pings
+  - TWAT Tackle/EWAR
 
 Ask questions!
 Before or after undock, this is encouraged.
