@@ -17,7 +17,7 @@ ___ Link in Fleet Chat ___
   - To protect others doing PvE
   - Standing = Kitchen Sink
 - Watch for Pings
-  - #strat-pings for Alliance OPs
+  - #strat-pings for Alliance Ops
   - #content-pings for roams, etc.
   - TWAT Tackle/EWAR
 
@@ -65,7 +65,7 @@ ___ <font size="12" color="#ff94ccff"><a href="helpPointer:unique_UI_fleetHistor
 --- Pinging off/slowboating? ---
 
 <b>==» Bridge to <font size="14" color="#ffd98d00"><loc><a href="showinfo:5//30003978">P-ZMZV</a></loc></font> «==</b>
---- Lemmings? ---
+--- Lemmings? Everyone went? ---
 
 <u>Set Desto & Free Burn</u>
 - Desto linked in fleet chat
@@ -85,24 +85,25 @@ ___ <font size="12" color="#ff94ccff"><a href="helpPointer:unique_UI_fleetHistor
 # Page 4 - Fleet Maneuvers
 <u>Align Command</u>
 - FC will call out aligns on comms and broadcast in-game
+
+<b>==» Broadcast, Align, Fleet Warp to sun «==</b>
+--- Staggered warp? ---
+
 - 3 steps to warping your ship:
   1) Pointing towards destination
   2) Reaching 75% of top speed
   3) Warp Animation
 - Aligning = step 1&2
 
-<b>==» Broadcast, Align, Fleet Warp to sun «==</b>
---- Staggered warp? ---
-
 <u>Anchor Up</u>
 - Default: Keep at Range 1000 on FC
-- Any other command same as in right-click menu
-- Use watchlist to Approach, Keep at Range, or Orbit
-- The anchor leads your ship
 
 <b>~~» Anchor Up! «~~</b>
 --- Properly anchored? ---
  
+- Any other command same as in right-click menu
+- Use watchlist to Approach, Keep at Range, or Orbit
+- The anchor leads your ship!
  
 
 # Page 5 - Prop Mod
