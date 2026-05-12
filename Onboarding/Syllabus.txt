@@ -29,6 +29,7 @@ Page separation to put in ingame notepad!
 - Any other time:
   - #newbros channel on Discord
 
+
 # Page 2 - Beginning of Fleet
 <u>Fleet Window</u>
 - Make fleet window visible
@@ -50,6 +51,7 @@ ___ <font size="12" color="#ff94ccff"><a href="helpPointer:unique_UI_fleetHistor
 - "Enter Color Edit Mode", to give FC a color
 - Right click to interact
 
+
 # Page 3 - Initial Fleet Movements
 <u>Take Titan Bridge</u>
 - Ping off structure
@@ -58,10 +60,10 @@ ___ <font size="12" color="#ff94ccff"><a href="helpPointer:unique_UI_fleetHistor
 - Wait for FC command to jump
 
 (Skip if no Titan)
-~~» Get on Titan «~~
+<b>~~» Get on Titan «~~</b>
 --- Pinging off/slowboating? ---
 
-==» Bridge fleet to <font size="14" color="#ffd98d00"><loc><a href="showinfo:5//30003978">P-ZMZV</a></loc></font> «==
+<b>==» Bridge to <font size="14" color="#ffd98d00"><loc><a href="showinfo:5//30003978">P-ZMZV</a></loc></font> «==</b>
 --- Lemmings? ---
 
 <u>Set Desto & Free Burn</u>
@@ -69,7 +71,7 @@ ___ <font size="12" color="#ff94ccff"><a href="helpPointer:unique_UI_fleetHistor
 - Right click -» set Destination
 - Free Burn on/off
 
-~~» Free Burn <font size="14" color="#ffd98d00"><a href="showinfo:5//30003993">BX2-ZX</a></font> «~~
+<b>~~» Free Burn <font size="14" color="#ffd98d00"><a href="showinfo:5//30003993">BX2-ZX</a></font> «~~</b>
 --- Everyone going? ---
 
 - While free burning:
@@ -77,8 +79,8 @@ ___ <font size="12" color="#ff94ccff"><a href="helpPointer:unique_UI_fleetHistor
   - Use first few characters for null-sec system names (BX2, not BX2-ZX)
     - Dashes are "Tack"
 
-# Page 4
 
+# Page 4 - Fleet Maneuvers
 Listen for Align Commands
 FC will call out aligns on comms and broadcast in-game
 
