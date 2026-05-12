@@ -1,57 +1,83 @@
 # Explanation
-~~> Command to give to fleet members <~~
-==> Teacher interaction with fleet <==
----Teacher observation of fleet ---
+~~» Command to give to fleet members «~~
+==» Teacher interaction with fleet «==
+--- Teacher observation of fleet ---
+___ Link in Fleet Chat ___
+Page separation to put in ingame notepad!
 
 
-# Page 1
+# Page 1 - Getting Involved
 
-~~> UNDOCK - Stop Ship <~~
+<b>~~» UNDOCK - Stop Ship «~~</b>
 
-Get involved
-Standing Fleet
+<u>Get involved</u>
+- Standing Fleet
+  - While doing PvE in our space
+  - To protect others doing PvE
   - Standing = Kitchen Sink
-Watch for Pings
+- Watch for Pings
+  - #strat-pings for Alliance OPs
+  - #content-pings for roams, etc.
   - TWAT Tackle/EWAR
 
-Ask questions!
-Before or after undock, this is encouraged.
-- Use fleet chat
-- Use whisper key on Mumble (Newbeans channels)
-- Don't talk over other people
+<u>Ask questions, this is encouraged!</u>
+- In fleet:
+  - Use fleet chat
+  - Newbro channel on Mumble
+    - Whisper Key!
+  - Don't talk over other people
+- Any other time:
+  - #newbros channel on Discord
 
-SPAIS are rare but real
-Horde has open recruitment, by design
-- "One of Us" - Joining a corp in Eve 
-- Enemies place alts in corp to harass or awox
-  - Report and move on, don't engage (provide proof)
-  - You might never encounter this
+# Page 2 - Beginning of Fleet
+<u>Fleet Window</u>
+- Make fleet window visible
 
-# Page 2
-Warp to Titan
-- Ping off structure, warp back to Titan, KaR1000
+___ <font size="12" color="#ff94ccff"><a href="helpPointer:neocom.fleet">Fleet</a></font> ___
 
-==> Align + Warp to Structure on Grid + Cold Warp back to Keep <==
---- Check for staggered warp and explain ---
+- "Broadcasts" Tab is important:
 
-Set Desto
-Going to do this a bit earlier, because Staging is dangerous
-Use link in fleet chat
+___ <font size="12" color="#ff94ccff"><a href="helpPointer:unique_UI_fleetHistoryTab">Fleet History</a></font> ___
 
-==> Set desto B3ZU-H and free burn <==
---- Make sure route is clear ---
+  - Make sure is set to "Broadcast History"
+  - Right-click to interact
+    - CTRL+Click to target
 
-- Out gate is highlighted in Overview
-- Use first few characters for null-sec system names (B3Z, not B3ZU-H)
-  - Dashes are pronounced as "Tack"
+<u>FC x up in fleet</u>
+- Makes it easy to find them
+- Add them to watch list
+- Gray bars =» hull/armor/shield HP
+- "Enter Color Edit Mode", to give FC a color
+- Right click to interact
 
-# Page 3
-Fleet Window
-Make fleet window visible: Fleet 
+# Page 3 - Initial Fleet Movements
+<u>Take Titan Bridge</u>
+- Ping off structure
+- Warp back to Titan
+- Keep at Range 1000
+- Wait for FC command to jump
 
-Fleet Broadcast History:
-Use History Fleet History 
-- Right-click to interact
+(Skip if no Titan)
+~~» Get on Titan «~~
+--- Pinging off/slowboating? ---
+
+==» Bridge fleet to <font size="14" color="#ffd98d00"><loc><a href="showinfo:5//30003978">P-ZMZV</a></loc></font> «==
+--- Lemmings? ---
+
+<u>Set Desto & Free Burn</u>
+- Desto linked in fleet chat
+- Right click -» set Destination
+- Free Burn on/off
+
+~~» Free Burn <font size="14" color="#ffd98d00"><a href="showinfo:5//30003993">BX2-ZX</a></font> «~~
+--- Everyone going? ---
+
+- While free burning:
+  - Out gate highlighted in Overview
+  - Use first few characters for null-sec system names (BX2, not BX2-ZX)
+    - Dashes are "Tack"
+
+# Page 4
 
 Listen for Align Commands
 FC will call out aligns on comms and broadcast in-game
@@ -65,16 +91,6 @@ FC will call out aligns on comms and broadcast in-game
   3) Warp Animation
 - Aligning before fleet warp steps 1-2
 
-FC x up in fleet
-Typing x's in fleet chat makes it easy to find their name
-
-- Makes it easy to find them
-- Add them to watch list
-- Gray bars give hull/armor/shield HP
-- "Enter Color Edit Mode", give FC a color
-- Right click to interact
-
-# Page 4
 Anchor Up
 Tell your ship to follow the anchor (usually the FC)
 
