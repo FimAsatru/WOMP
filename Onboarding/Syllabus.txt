@@ -17,7 +17,9 @@ ___ Link in Fleet Chat ___
   - To protect others doing PvE
   - Standing = Kitchen Sink
 - Watch for Pings
-  - #strat-pings for Alliance Ops
+  - #strat-pings for StratOps & CTAs
+    - StratOp: Important, be there if you can
+	- CTA: Call To Arms; very, very important!
   - #content-pings for roams, etc.
   - TWAT Tackle/EWAR
 
